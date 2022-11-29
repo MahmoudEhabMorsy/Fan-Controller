@@ -1,0 +1,19 @@
+/*
+ * DcMotor.h
+ *
+ *  Created on: Oct 6, 2022
+ *      Author: EGYPT
+ */
+
+#ifndef DCMOTOR_H_
+#define DCMOTOR_H_
+
+
+
+
+
+void DcMotor_init(void)
+
+void DcMotor_Rotate(DcMotor_State state,uint8 speed)
+
+#endif /* DCMOTOR_H_ */
